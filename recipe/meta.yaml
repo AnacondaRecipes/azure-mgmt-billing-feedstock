@@ -1,4 +1,4 @@
-{% set name = "aazure-mgmt-billing" %}
+{% set name = "azure-mgmt-billing" %}
 {% set version = "6.0.0" %}
 
 package:
